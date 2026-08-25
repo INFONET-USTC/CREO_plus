@@ -9,6 +9,8 @@ or Linux.
 
 ## Core implementation
 
+![CREO+ LEOSN testbed framework](simulation.png)
+
 - `LEOSN Data Generation/` computes BPL/ISL routes and exports capacity and
   propagation-delay traces.
 - `LEOSN Network Simulation/ns3-creo/` is an overlay for ns-3.41. Its connected
